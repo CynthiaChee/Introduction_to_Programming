@@ -1,0 +1,58 @@
+// Ships
+BITMAP,aquarii,Aquarii.png
+BITMAP,gliese,Gliese.png
+BITMAP,pegasi,Pegasi.png
+// Planets
+BITMAP,earth,earth.png
+BITMAP,jupiter,jupiter.png
+BITMAP,mars,mars.png
+BITMAP,mercury,mercury.png
+BITMAP,neptune,neptune.png
+BITMAP,pluto,pluto.png
+BITMAP,saturn,saturn.png
+BITMAP,uranus,uranus.png
+BITMAP,venus,venus.png
+// Power ups
+BITMAP,shield,shield.png
+BITMAP,power,power.png
+BITMAP,potion,potion.png
+BITMAP,fuel,fuel.png
+BITMAP,drops,drops.png
+BITMAP,diamond,diamond.png
+BITMAP,star,star.png
+BITMAP,cash,cash.png
+BITMAP,nos,nos.png
+BITMAP,level,level.png
+BITMAP,bullet,bullet.png
+BITMAP,coin,coin.png
+BITMAP,battery,battery.png
+BITMAP,heart,heart.png
+BITMAP,muscle,muscle.png
+BITMAP,time,time.png
+BITMAP,box,box.png
+// Coins
+BITMAP,silver_coin,silver_coin.png,26,26,6,1,6
+BITMAP,bronse_coin,bronse_coin.png,26,26,6,1,6
+BITMAP,gold_coin,gold_coin.png,26,26,6,1,6
+// Other
+BITMAP,empty,empty.png
+BITMAP,full,full.png
+BITMAP,empty_bar_transparent,empty_bar_transparent.png
+BITMAP,heart_grey,heart_grey.png
+BITMAP,orange_bar_lines,orange_bar_lines.png
+BITMAP,red_bar,red_bar.png
+BITMAP,orange_bar,orange_bar.png
+BITMAP,purple_bar,purple_bar.png
+BITMAP,blue_bar_bubbles,blue_bar_bubbles.png
+ANIM,coins,coin_animation.txt
+//Sounds
+SOUND,got_it,got_it.wav
+SOUND,bonus_up,bonus_up.wav
+SOUND,damage,damage.wav
+SOUND,level_up,level_up.wav
+SOUND,game_over,game_over.wav
+//Extended
+BITMAP,enemy,enemy.png
+BITMAP,shoot,shoot.png
+//Music
+MUSIC,game_music,game_music.ogg
